@@ -1,0 +1,6 @@
+# Distribution / packaging
+.Python
+venv/
+build/
+test.py
+__pycache__
