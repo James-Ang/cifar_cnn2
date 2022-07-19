@@ -2,6 +2,7 @@
 
 import matplotlib.pyplot as plt
 from load_cifar_10_alt import load_data
+import numpy as np
 
 cifar_dir = r'C:\Users\User\Documents\virtual\cifar_basic1\cifar-10-batches-py'
 (x_train, y_train), (x_test, y_test) = load_data(cifar_dir)
